@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView textViewMessage = findViewById(R.id.textView);
-        textViewMessage.setText("Good night!!!");
+        textViewMessage.setText("Good night...");
     }
 }
